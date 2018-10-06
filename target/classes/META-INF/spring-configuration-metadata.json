@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.jooq.jooqDemo.properties.DatasourceProperties",
+      "name": "spring.datasource",
+      "type": "com.jooq.jooqDemo.properties.DatasourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.jooq.jooqDemo.properties.DatasourceProperties",
+      "name": "spring.datasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.jooq.jooqDemo.properties.DatasourceProperties",
+      "name": "spring.datasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.jooq.jooqDemo.properties.DatasourceProperties",
+      "name": "spring.datasource.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
